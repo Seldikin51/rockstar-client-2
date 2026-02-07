@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "rockstar",
+	"version": "1.0.0",
+	"name": "Rockstar",
+	"description": "Вспомогательный мод для комфортной игры",
+	"authors": [
+		"ConeTin",
+		"Malecharik",
+		"Jabkov",
+		"Александр"
+	],
+	"contact": {
+		"homepage": "https://rockstar.moscow"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/rockstar/icon.png",
+	"environment": "client",
+	"entrypoints": {},
+	"mixins": [
+		"rockstar.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"jars": [
+		{
+			"file": "libs/discord-rpc.jar"
+		}
+	],
+	"suggests": {
+		"another-mod": "*"
+	},
+	"accessWidener": "rockstar.accesswidener"
+}

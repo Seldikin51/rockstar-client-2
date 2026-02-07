@@ -1,0 +1,10 @@
+accessWidener	v2	named
+accessible	method	net/minecraft/client/network/ClientPlayerInteractionManager	sendSequencedPacket	(Lnet/minecraft/client/world/ClientWorld;Lnet/minecraft/client/network/SequencedPacketCreator;)V
+accessible	field	net/minecraft/client/gui/screen/ingame/CreativeInventoryScreen	selectedTab	Lnet/minecraft/item/ItemGroup;
+accessible	field	net/minecraft/entity/projectile/FishingBobberEntity	CAUGHT_FISH	Lnet/minecraft/entity/data/TrackedData;
+accessible	method	net/minecraft/client/render/entity/EntityRenderDispatcher	render	(Lnet/minecraft/entity/Entity;DDDFLnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;ILnet/minecraft/client/render/entity/EntityRenderer;)V
+accessible	method	net/minecraft/client/render/GameRenderer	getFov	(Lnet/minecraft/client/render/Camera;FZ)F
+accessible	method	net/minecraft/client/render/GameRenderer	tiltViewWhenHurt	(Lnet/minecraft/client/util/math/MatrixStack;F)V
+accessible	class	net/minecraft/client/network/ClientCommonNetworkHandler$ConfirmServerResourcePackScreen
+accessible	method	net/minecraft/client/texture/NativeImage	getColor	(II)I
+accessible	method	net/minecraft/client/texture/NativeImage	setColor	(III)V

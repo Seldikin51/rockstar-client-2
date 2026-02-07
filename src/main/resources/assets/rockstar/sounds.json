@@ -1,0 +1,8 @@
+{
+  "clickgui_open": { "sounds": [ "rockstar:clickgui_open" ] },
+  "toggle": { "sounds": [ "rockstar:toggle" ] },
+  "applepay": { "sounds": [ "rockstar:applepay" ] },
+  "welcome": { "sounds": [ "rockstar:welcome" ] },
+  "typing": { "sounds": [ "rockstar:typing" ] },
+  "critical": { "sounds": [ "rockstar:critical" ] }
+}
